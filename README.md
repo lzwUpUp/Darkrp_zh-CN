@@ -11,3 +11,5 @@ DarkRP模式所制作的汉化文本
 QQ：320141975
 
 你需要将chinese.lua放入GarrysModDS\garrysmod\addons\darkrpmodification-master\lua\darkrp_language
+
+然后启动你的Gmod服务器即可
